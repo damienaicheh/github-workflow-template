@@ -4,7 +4,11 @@
     "iconName": "template-icon",
     "categories": [
         "continuous-integration",
-        "deployment"
+        "deployment",
+        "AspNetCore",
+        "DotNetCoreWorker",
+        "DotNetConsole",
+        "C#",
     ],
     "filePatterns": []
 }
