@@ -1,0 +1,14 @@
+{
+    "name": "Damien Aicheh Workflow",
+    "description": "Demo CI starter workflow.",
+    "iconName": "template-icon",
+    "categories": [
+        "continuous-integration",
+        "deployment"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
