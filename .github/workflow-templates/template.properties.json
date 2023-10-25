@@ -6,9 +6,5 @@
         "continuous-integration",
         "deployment"
     ],
-    "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
-    ]
+    "filePatterns": []
 }
